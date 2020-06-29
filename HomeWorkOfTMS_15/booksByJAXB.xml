@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<books>
+    <book>
+        <vendor_code>13245</vendor_code>
+        <name>Бойцовсий клуб</name>
+        <writer>Чак Поланник</writer>
+        <year>1996</year>
+    </book>
+    <book>
+        <vendor_code>10290</vendor_code>
+        <name>Старик и море</name>
+        <writer>Эрнест Хэмингуэй</writer>
+        <year>1952</year>
+    </book>
+    <book>
+        <vendor_code>11243</vendor_code>
+        <name>Горе от ума</name>
+        <writer>Алеександр Грибоедов</writer>
+        <year>1825</year>
+    </book>
+    <book>
+        <vendor_code>31941</vendor_code>
+        <name>Война и мир</name>
+        <writer>Леа Толстой</writer>
+        <year>1865</year>
+    </book>
+</books>
